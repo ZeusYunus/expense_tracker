@@ -1,0 +1,11 @@
+CREATE SCHEMA auth;
+GO
+
+CREATE SCHEMA finance;
+GO
+
+CREATE SCHEMA audit;
+GO
+
+CREATE SCHEMA reporting;
+GO
